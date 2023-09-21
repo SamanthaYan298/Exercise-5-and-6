@@ -6,7 +6,7 @@ console.log(sentence);
 
 // 5-1-2
 var age = 45;
-var sentence = `The adult was ${age} years ols.`
+var sentence = `The adult was ${age} years old.`
 console.log(sentence);
 
 // 5-1-3
@@ -84,20 +84,20 @@ var text = "What are the 3 Good Goals?";
 console.log(text);
 
 // 5-3-4
-var text = "The title of the book is called 'Design Patterns.'"; // cannot doublr quotes for design patterns;
+var text = "The title of the book is called \"Design Patterns.\""; // cannot doublr quotes for design patterns;
 console.log(text);
 
 // 5-3-5
-var text = "The symbol of the backslash is \."; // no display \ after running console.log;
+var text = "The symbol of the backslash is \\."; // no display \ after running console.log;
 console.log(text);
 
 // 5-4-0 single quotes;
 // 5-4-1;
-var text = 'It is sunny outside today.'; //canont write "it's";
+var text = 'It\'s sunny outside today.'; //canont write "it's";
 console.log(text);
 
 // 5-4-2
-var text = 'I do not have a pet dog.';
+var text = 'I don\'t have a pet dog.';
 console.log(text);
 
 // 5-4-3
@@ -109,7 +109,7 @@ var text = 'The title of the book is called "Design Patterns."';
 console.log(text);
 
 // 5-4-5
-var text = 'The symbol of the backslash is \.'; // no display "\" again;
+var text = 'The symbol of the backslash is \\.'; // no display "\" again;
 console.log(text);
 
 // 5-5-0 Format Specifiers;
