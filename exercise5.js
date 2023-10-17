@@ -84,7 +84,7 @@ var text = "What are the 3 Good Goals?";
 console.log(text);
 
 // 5-3-4
-var text = "The title of the book is called \"Design Patterns.\""; // cannot double quotes for design patterns;
+var text = "The title of the book is called 'Design Patterns.'"; // cannot doublr quotes for design patterns;
 console.log(text);
 
 // 5-3-5
